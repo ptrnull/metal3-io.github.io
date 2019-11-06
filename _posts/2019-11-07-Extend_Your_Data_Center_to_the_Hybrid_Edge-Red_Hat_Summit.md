@@ -1,6 +1,6 @@
 ---
 title: "Extend Your Data Center to the Hybrid Edge - Red Hat Summit, May 2019"
-date: 2019-11-07T10:37:00+02:00
+date: 2019-11-13T10:37:00+02:00
 draft: false
 categories: ["hybrid", "cloud", "metal3", "baremetal", "summit", "edge"]
 author: Pedro Ibáñez Requena
