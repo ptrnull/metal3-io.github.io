@@ -6,7 +6,7 @@ categories: ["hybrid", "cloud", "metal3", "baremetal", "summit", "edge"]
 author: Pedro Ibáñez Requena
 ---
 
-## Conference talk: Extend Your Data Center to the Hybrid Edge - Red Hat Summit, May 2019, Paul Cormier
+## Conference talk: Extend Your Data Center to the Hybrid Edge - Red Hat Summit, May 2019, Paul Cormier, Burr Stutter and Garima Sharma
 
 A critical part of being succesfull in the hybrid cloud is being usccessfull in your data center with your own infraestructure
 
